@@ -1,0 +1,7 @@
+{
+  "name": "SafeRail Vision",
+  "description": "A smart, automated, all-weather railway safety monitoring system for real-time obstacle detection, track health monitoring, and environmental hazard assessment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
